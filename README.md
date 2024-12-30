@@ -2,11 +2,11 @@
 
 **Project Purpose:**
 
-To develop a predictive model that assists PeerLoanKart in evaluating the likelihood of borrowers repaying their loans, thereby enhancing investor confidence and ensuring better risk management.
+To develop a predictive model that assists in evaluating the likelihood of borrowers repaying their loans, thereby enhancing investor confidence and ensuring better risk management.
 
 **Business Case:**
 
-PeerLoanKart, a peer-to-peer lending NBFC, connects borrowers with investors. Investors require reliable insights into borrower profiles to make informed decisions. Predicting repayment probabilities will improve investor satisfaction, reduce default risks, and drive growth for the platform.
+To create a model that accurately predicts loan repayment. Investors require reliable insights into borrower profiles to make informed decisions. Predicting repayment probabilities will improve investor satisfaction, reduce default risks, and drive growth for the platform.
 
 **Goal:**
 
